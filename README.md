@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chandana Sri Bobbili 👋</h1>
 
 <p align="center">
-  <b>Java Developer Intern @ Infosys</b> · Hyderabad, India
+  <b>Java Developer Intern </b> · Hyderabad, India
 </p>
 
 <p align="center">
@@ -31,21 +31,21 @@ development and data structures.
 - 💬 Open to opportunities in **Java development, backend engineering, and software development**
 
 ---
+## 🛠️ Technical Skills
 
-## Technical Skills
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,mysql,git,github&perline=9" /></a>
+</p>
 
 | Category | Skills |
 |---|---|
-| **Languages** | Java, C, JavaScript |
-| **Core Java** | OOP, Collections Framework, Exception Handling, File Handling, Multithreading, JDBC |
-| **Frontend** | HTML, CSS, React.js |
-| **Backend & APIs** | REST APIs, CRUD Operations |
-| **Database** | MySQL, SQL |
-| **DSA** | Arrays, Strings, Linked List, Stack, Queue, Trees, HashMap |
-| **CS Fundamentals** | DBMS, Operating Systems, Computer Networks |
-| **Tools & Platforms** | Git, GitHub, ServiceNow |
-
----
+| ☕ **Core Java** | OOP · Collections · Exception Handling · File Handling · Multithreading · JDBC |
+| 🎨 **Frontend** | HTML · CSS · React.js |
+| ⚙️ **Backend** | REST APIs · CRUD Operations |
+| 🗄️ **Database** | MySQL · SQL |
+| 🧠 **DSA** | Arrays · Strings · Linked List · Stack · Queue · Trees · HashMap |
+| 📚 **CS Fundamentals** | DBMS · Operating Systems · Computer Networks |
+| 🔧 **Tools** | Git · GitHub · ServiceNow |
 
 ## GitHub Stats
 
