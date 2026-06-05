@@ -33,26 +33,16 @@ development and data structures.
 ---
 ## 🛠️ Technical Skills
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend & Database**
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
-
+```
+Languages        •  Java  •  C  •  JavaScript
+Core Java        •  OOP  •  Collections  •  Exception Handling  •  Multithreading  •  JDBC
+Frontend         •  HTML  •  CSS  •  React.js
+Backend & APIs   •  REST APIs  •  CRUD Operations
+Database         •  MySQL  •  SQL
+DSA              •  Arrays  •  Strings  •  Linked List  •  Stack  •  Queue  •  Trees  •  HashMap
+CS Fundamentals  •  DBMS  •  Operating Systems  •  Computer Networks
+Tools            •  Git  •  GitHub  •  ServiceNow ✅ Certified
+```
 ## Certification
 
 | Badge | Certification | Issuer |
