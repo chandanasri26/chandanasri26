@@ -81,15 +81,6 @@ Every line of code I write is intentional. Every project I build is a step forwa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanasri26&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanasri26&layout=compact&theme=default&hide_border=true&cache_seconds=86400" width="40%"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chandanasri26&color=brightgreen&style=flat"/>
 </p>
