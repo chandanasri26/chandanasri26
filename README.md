@@ -33,28 +33,21 @@ development and data structures.
 ---
 ## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,mysql,git,github&perline=9" /></a>
-</p>
+**Java**
+![90%](https://progress-bar.dev/90?title=Java&width=500&color=ED8B00)
 
-| Category | Skills |
-|---|---|
-| ☕ **Core Java** | OOP · Collections · Exception Handling · File Handling · Multithreading · JDBC |
-| 🎨 **Frontend** | HTML · CSS · React.js |
-| ⚙️ **Backend** | REST APIs · CRUD Operations |
-| 🗄️ **Database** | MySQL · SQL |
-| 🧠 **DSA** | Arrays · Strings · Linked List · Stack · Queue · Trees · HashMap |
-| 📚 **CS Fundamentals** | DBMS · Operating Systems · Computer Networks |
-| 🔧 **Tools** | Git · GitHub · ServiceNow |
+**JavaScript**
+![70%](https://progress-bar.dev/70?title=JavaScript&width=500&color=F7DF1E)
 
-## GitHub Stats
+**C**
+![75%](https://progress-bar.dev/75?title=C&width=500&color=00599C)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanasri26&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanasri26&layout=compact&theme=default&hide_border=true&cache_seconds=86400" width="40%"/>
-</p>
+**React.js**
+![65%](https://progress-bar.dev/65?title=React.js&width=500&color=61DAFB)
 
----
+**MySQL**
+![80%](https://progress-bar.dev/80?title=MySQL&width=500&color=4479A1)
+
 
 ## Certification
 
