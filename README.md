@@ -11,8 +11,8 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/chandanasribobbili">
-    <img src="https://img.shields.io/badge/GitHub-chandanasribobbili-181717?style=flat&logo=github&logoColor=white"/>
+  <a href="https://github.com/chandanasri26">
+    <img src="https://img.shields.io/badge/GitHub-chandanasri26-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -20,7 +20,10 @@
 
 ## About Me
 
-I am a Java Developer Intern at Infosys with hands-on experience in Core Java, backend development, and database management. I enjoy solving problems through clean code and am actively building my skills in full-stack development and data structures.
+I am a passionate Java Developer with hands-on experience in Core Java,
+backend development, and database management. I enjoy solving problems
+through clean code and am actively building my skills in full-stack
+development and data structures.
 
 - 🎯 Currently focused on **Core Java, DSA, and REST APIs**
 - 🏅 **ServiceNow Certified System Administrator**
@@ -47,8 +50,8 @@ I am a Java Developer Intern at Infosys with hands-on experience in Core Java, b
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanasribobbili&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanasribobbili&layout=compact&theme=default&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanasri26&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanasri26&layout=compact&theme=default&hide_border=true" width="40%"/>
 </p>
 
 ---
