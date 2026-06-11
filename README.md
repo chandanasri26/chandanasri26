@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chandana Sri Bobbili 👋</h1> <p align="center"> 
+<h1 align="center">Hi, I'm Bobbili Chandana Sri 👋</h1> <p align="center"> 
 
 <p align="center">
   <b>Java Developer | Spring Boot | React.js | AI & Machine Learning Enthusiast</b>
