@@ -28,6 +28,7 @@ I'm passionate about **Java Backend Development, Full Stack Development, and AI-
 * 🗄️ MongoDB • SQL • Database Design
 * 🤖 Learning Machine Learning, Deep Learning & Data Mining
 * 🏆 ServiceNow Certified System Administrator (CSA)
+* 🏆 ServiceNow Certified Application Developer (CAD)
 * 🚀 Interested in Backend, Full Stack & AI Development roles
 
 ---
@@ -71,7 +72,6 @@ I'm passionate about **Java Backend Development, Full Stack Development, and AI-
 * GitHub
 * VS Code
 * ServiceNow
-* Postman
 
 ---
 
@@ -80,6 +80,7 @@ I'm passionate about **Java Backend Development, Full Stack Development, and AI-
 | Certification                                   | Organization |
 | ----------------------------------------------- | ------------ |
 | ServiceNow Certified System Administrator (CSA) | ServiceNow   |
+| ServiceNow Certified Application Developer (CAD) | ServiceNow   |
 
 ---
 
