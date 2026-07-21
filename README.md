@@ -47,6 +47,7 @@ I'm passionate about **Java Backend Development, Full Stack Development, and AI-
 * HTML5
 * CSS3
 * React.js
+* JavaScript
 
 ## Backend
 
@@ -71,6 +72,7 @@ I'm passionate about **Java Backend Development, Full Stack Development, and AI-
 * Git
 * GitHub
 * VS Code
+* Jupiter Notebook
 * ServiceNow
 
 ---
