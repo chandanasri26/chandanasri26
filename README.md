@@ -22,7 +22,7 @@
 
 Started with **"Hello, World!"** and now building real-world software solutions.
 
-I'm passionate about **Java Backend Development, Full Stack Development, and AI-powered applications**. I enjoy solving problems through clean code and continuously expanding my skills in modern technologies.
+I'm passionate about **Full Stack Development, and AI-powered applications**. I enjoy solving problems through clean code and continuously expanding my skills in modern technologies.
 
 * 💻 Java • Spring Boot • React.js • REST APIs
 * 🗄️ MongoDB • SQL • Database Design
