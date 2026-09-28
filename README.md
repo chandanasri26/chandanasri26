@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bobbili Chandana Sri 👋</h1> <p align="center"> 
 
 <p align="center">
-  <b>Java Developer | Spring Boot | React.js | AI & Machine Learning Enthusiast</b>
+  <b>Java Developer | Spring Boot | AI & Machine Learning Enthusiast</b>
 </p>
 
 <p align="center">
@@ -69,7 +69,6 @@ I'm passionate about **Full Stack Development, and AI-powered applications**. I 
 
 ## Tools & Platforms
 
-* Git
 * GitHub
 * VS Code
 * Jupiter Notebook
