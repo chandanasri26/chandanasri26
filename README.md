@@ -29,7 +29,6 @@ I'm passionate about **Full Stack Development, and AI-powered applications**. I 
 * 🤖 Learning Machine Learning, Deep Learning & Data Mining
 * 🏆 ServiceNow Certified System Administrator (CSA)
 * 🏆 ServiceNow Certified Application Developer (CAD)
-* 🚀 Interested in Backend, Full Stack & AI Development roles
 
 ---
 
